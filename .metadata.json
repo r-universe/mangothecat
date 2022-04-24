@@ -1,0 +1,54 @@
+[
+  {
+    "package": "bambooHR",
+    "oncran": true
+  },
+  {
+    "package": "BLCOP",
+    "oncran": true
+  },
+  {
+    "package": "cyclocomp",
+    "oncran": true
+  },
+  {
+    "package": "goodpractice",
+    "oncran": true
+  },
+  {
+    "package": "mangoTraining",
+    "oncran": true
+  },
+  {
+    "package": "radarchart",
+    "oncran": true
+  },
+  {
+    "package": "rematch",
+    "oncran": true
+  },
+  {
+    "package": "rmdshower",
+    "oncran": true
+  },
+  {
+    "package": "rstack",
+    "oncran": true
+  },
+  {
+    "package": "sasMap",
+    "oncran": true
+  },
+  {
+    "package": "shinytoastr",
+    "oncran": true
+  },
+  {
+    "package": "simplegraph",
+    "oncran": true
+  },
+  {
+    "package": "tracer",
+    "oncran": true
+  }
+]
