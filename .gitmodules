@@ -18,11 +18,6 @@
 	url = https://github.com/mangothecat/cyclocomp
 	shallow = true
 	registered = true
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/mangothecat/goodpractice
-	shallow = true
-	registered = true
 [submodule "mangoTraining"]
 	path = mangoTraining
 	url = https://github.com/mangothecat/mangotraining

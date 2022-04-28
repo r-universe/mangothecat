@@ -12,9 +12,6 @@
     "oncran": true
   },
   {
-    "package": "goodpractice"
-  },
-  {
     "package": "mangoTraining",
     "oncran": true
   },
