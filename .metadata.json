@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "goodpractice",
+    "oncran": true
+  },
+  {
     "package": "mangoTraining",
     "oncran": true
   },
