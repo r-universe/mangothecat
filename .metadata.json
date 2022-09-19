@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "mangoTraining",
-    "oncran": true
-  },
-  {
     "package": "radarchart",
     "oncran": true
   },

@@ -23,11 +23,6 @@
 	url = https://github.com/mangothecat/goodpractice
 	shallow = true
 	registered = true
-[submodule "mangoTraining"]
-	path = mangoTraining
-	url = https://github.com/mangothecat/mangotraining
-	shallow = true
-	registered = true
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/mangothecat/radarchart
