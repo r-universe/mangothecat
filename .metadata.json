@@ -1,13 +1,5 @@
 [
   {
-    "package": "sasMap",
-    "oncran": true
-  },
-  {
-    "package": "goodpractice",
-    "oncran": true
-  },
-  {
     "package": "bambooHR",
     "oncran": true
   },
@@ -16,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "tracer",
+    "package": "cyclocomp",
     "oncran": true
   },
   {
-    "package": "rmdshower",
+    "package": "goodpractice",
+    "oncran": true
+  },
+  {
+    "package": "mangoTraining",
     "oncran": true
   },
   {
@@ -32,15 +28,15 @@
     "oncran": true
   },
   {
+    "package": "rmdshower",
+    "oncran": true
+  },
+  {
     "package": "rstack",
     "oncran": true
   },
   {
-    "package": "cyclocomp",
-    "oncran": true
-  },
-  {
-    "package": "simplegraph",
+    "package": "sasMap",
     "oncran": true
   },
   {
@@ -48,7 +44,11 @@
     "oncran": true
   },
   {
-    "package": "mangoTraining",
+    "package": "simplegraph",
+    "oncran": true
+  },
+  {
+    "package": "tracer",
     "oncran": true
   }
 ]

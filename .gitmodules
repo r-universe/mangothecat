@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sasMap"]
-	path = sasMap
-	url = https://github.com/mangothecat/sasmap
-	shallow = true
-	registered = true
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/mangothecat/goodpractice
-	shallow = true
-	registered = true
 [submodule "bambooHR"]
 	path = bambooHR
 	url = https://github.com/mangothecat/bamboohr
@@ -23,14 +13,19 @@
 	url = https://github.com/mangothecat/blcop
 	shallow = true
 	registered = true
-[submodule "tracer"]
-	path = tracer
-	url = https://github.com/mangothecat/tracer
+[submodule "cyclocomp"]
+	path = cyclocomp
+	url = https://github.com/mangothecat/cyclocomp
 	shallow = true
 	registered = true
-[submodule "rmdshower"]
-	path = rmdshower
-	url = https://github.com/mangothecat/rmdshower
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/mangothecat/goodpractice
+	shallow = true
+	registered = true
+[submodule "mangoTraining"]
+	path = mangoTraining
+	url = https://github.com/mangothecat/mangotraining
 	shallow = true
 	registered = true
 [submodule "radarchart"]
@@ -43,19 +38,19 @@
 	url = https://github.com/mangothecat/rematch
 	shallow = true
 	registered = true
+[submodule "rmdshower"]
+	path = rmdshower
+	url = https://github.com/mangothecat/rmdshower
+	shallow = true
+	registered = true
 [submodule "rstack"]
 	path = rstack
 	url = https://github.com/mangothecat/rstack
 	shallow = true
 	registered = true
-[submodule "cyclocomp"]
-	path = cyclocomp
-	url = https://github.com/mangothecat/cyclocomp
-	shallow = true
-	registered = true
-[submodule "simplegraph"]
-	path = simplegraph
-	url = https://github.com/mangothecat/simplegraph
+[submodule "sasMap"]
+	path = sasMap
+	url = https://github.com/mangothecat/sasmap
 	shallow = true
 	registered = true
 [submodule "shinytoastr"]
@@ -63,8 +58,13 @@
 	url = https://github.com/mangothecat/shinytoastr
 	shallow = true
 	registered = true
-[submodule "mangoTraining"]
-	path = mangoTraining
-	url = https://github.com/mangothecat/mangotraining
+[submodule "simplegraph"]
+	path = simplegraph
+	url = https://github.com/mangothecat/simplegraph
+	shallow = true
+	registered = true
+[submodule "tracer"]
+	path = tracer
+	url = https://github.com/mangothecat/tracer
 	shallow = true
 	registered = true
