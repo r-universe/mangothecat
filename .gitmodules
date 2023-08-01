@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bambooHR"]
-	path = bambooHR
-	url = https://github.com/mangothecat/bamboohr
 [submodule "BLCOP"]
 	path = BLCOP
 	url = https://github.com/mangothecat/blcop
+[submodule "bambooHR"]
+	path = bambooHR
+	url = https://github.com/mangothecat/bamboohr
 [submodule "cyclocomp"]
 	path = cyclocomp
 	url = https://github.com/mangothecat/cyclocomp
