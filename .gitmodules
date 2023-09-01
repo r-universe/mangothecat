@@ -23,9 +23,6 @@
 [submodule "sasMap"]
 	path = sasMap
 	url = https://github.com/mangothecat/sasmap
-[submodule "simplegraph"]
-	path = simplegraph
-	url = https://github.com/mangothecat/simplegraph
 [submodule "tracer"]
 	path = tracer
 	url = https://github.com/mangothecat/tracer
