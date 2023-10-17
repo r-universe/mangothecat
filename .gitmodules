@@ -17,9 +17,6 @@
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/mangothecat/radarchart
-[submodule "rmdshower"]
-	path = rmdshower
-	url = https://github.com/mangothecat/rmdshower
 [submodule "sasMap"]
 	path = sasMap
 	url = https://github.com/mangothecat/sasmap
