@@ -17,9 +17,6 @@
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/mangothecat/radarchart
-[submodule "sasMap"]
-	path = sasMap
-	url = https://github.com/mangothecat/sasmap
 [submodule "tracer"]
 	path = tracer
 	url = https://github.com/mangothecat/tracer
