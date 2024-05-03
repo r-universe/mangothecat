@@ -11,9 +11,6 @@
 [submodule "goodpractice"]
 	path = goodpractice
 	url = https://github.com/mangothecat/goodpractice
-[submodule "mangoTraining"]
-	path = mangoTraining
-	url = https://github.com/mangothecat/mangotraining
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/mangothecat/radarchart
