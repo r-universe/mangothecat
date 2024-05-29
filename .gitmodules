@@ -8,9 +8,6 @@
 [submodule "bambooHR"]
 	path = bambooHR
 	url = https://github.com/mangothecat/bamboohr
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/mangothecat/goodpractice
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/mangothecat/radarchart
